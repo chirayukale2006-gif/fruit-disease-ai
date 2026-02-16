@@ -22,4 +22,6 @@ This project demonstrates a hybrid AI approach combining machine learning predic
 - Pandas
 - Joblib
 
+- https://fruit-disease-ai-gaxbwbddmeepqhw38zkc8x.streamlit.app/
+
 
