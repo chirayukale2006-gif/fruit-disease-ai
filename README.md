@@ -22,9 +22,4 @@ This project demonstrates a hybrid AI approach combining machine learning predic
 - Pandas
 - Joblib
 
----
-
-## How to Run Locally
-
-1. Clone the repository
 
